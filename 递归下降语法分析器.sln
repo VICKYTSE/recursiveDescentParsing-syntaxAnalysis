@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "递归下降语法分析器", "递归下降语法分析器\递归下降语法分析器.csproj", "{D2940010-C44A-47EB-A013-2BFE2F96B9C7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D2940010-C44A-47EB-A013-2BFE2F96B9C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2940010-C44A-47EB-A013-2BFE2F96B9C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2940010-C44A-47EB-A013-2BFE2F96B9C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2940010-C44A-47EB-A013-2BFE2F96B9C7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {17300D1D-959B-4899-89B0-FC9A1C919B2F}
+	EndGlobalSection
+EndGlobal
